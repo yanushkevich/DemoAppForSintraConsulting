@@ -1,0 +1,23 @@
+{
+    
+    "name": "TestName",
+    "surname": "TestSurname",
+    "fiscalCode": "410-343-12-22",
+    "dob": "01-05-1990",
+    "address": "Warsaw",
+    "phone": "123456789",
+    "loan": [
+        {
+            "loanType": "AUTOMOTIVE",
+            "loanAmount": 0.2,
+            "rates": "1",
+            "documents": [
+            	{
+                        "attachment": "",
+                        "documentName": "testDocument"
+                        
+                    }]
+            
+        }
+    ]
+}
